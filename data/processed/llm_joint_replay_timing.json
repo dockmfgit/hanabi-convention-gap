@@ -1,0 +1,11 @@
+{
+  "plays": 19093,
+  "marginal_time": 0.09373513609170914,
+  "joint_time": 4.492522485321388,
+  "brute_checks": 96,
+  "brute_max_absdiff": 0.0,
+  "games": 1861,
+  "score_mismatches": 0,
+  "wall_clock_s": 8.337812583195046,
+  "verified_against_shipped": 19093
+}

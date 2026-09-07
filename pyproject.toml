@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hanabi-convention-gap"
+version = "1.1.0"
+description = "Convention gap for Hanabi: exact literal-information baseline for measuring implicit communication in cooperative play"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/dockmfgit/hanabi-convention-gap"
+DOI = "https://doi.org/10.5281/zenodo.21975884"
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[tool.setuptools]
+packages = ["convention_gap"]

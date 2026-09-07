@@ -1,0 +1,8 @@
+{
+  "plays": 118550,
+  "marginal_time": 0.45976397406775504,
+  "joint_time": 33.193052193382755,
+  "brute_checks": 591,
+  "brute_max_absdiff": 0.0,
+  "wall_clock_s": 74.46685404202435
+}

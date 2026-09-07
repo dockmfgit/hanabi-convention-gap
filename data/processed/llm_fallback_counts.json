@@ -1,0 +1,314 @@
+{
+  "GPT54/llm_vs_flawed": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 979,
+    "llm_parse_ok": 979
+  },
+  "GPT54/llm_vs_full": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1341,
+    "llm_parse_ok": 1341
+  },
+  "GPT54/llm_vs_iggi": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1500,
+    "llm_parse_ok": 1500
+  },
+  "GPT54/llm_vs_intentional": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1500,
+    "llm_parse_ok": 1500
+  },
+  "GPT54/llm_vs_internal": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1500,
+    "llm_parse_ok": 1500
+  },
+  "GPT54/llm_vs_outer": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1500,
+    "llm_parse_ok": 1500
+  },
+  "GPT54/llm_vs_piers": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1493,
+    "llm_parse_ok": 1493
+  },
+  "GPT54/llm_vs_simple": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1472,
+    "llm_parse_ok": 1472
+  },
+  "GPT54/llm_vs_van_den_bergh": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1492,
+    "llm_parse_ok": 1492
+  },
+  "GPT54_Mini/llm_vs_flawed": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1263,
+    "llm_parse_ok": 1263
+  },
+  "GPT54_Mini/llm_vs_flawed_cot_medium": {
+    "PLAY": 0,
+    "DISCARD": 1,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1091,
+    "llm_parse_ok": 1090
+  },
+  "GPT54_Mini/llm_vs_full": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1363,
+    "llm_parse_ok": 1363
+  },
+  "GPT54_Mini/llm_vs_full_cot_medium": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1474,
+    "llm_parse_ok": 1474
+  },
+  "GPT54_Mini/llm_vs_iggi": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1453,
+    "llm_parse_ok": 1453
+  },
+  "GPT54_Mini/llm_vs_iggi_cot_medium": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1467,
+    "llm_parse_ok": 1467
+  },
+  "GPT54_Mini/llm_vs_intentional": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1500,
+    "llm_parse_ok": 1500
+  },
+  "GPT54_Mini/llm_vs_intentional_cot_medium": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1350,
+    "llm_parse_ok": 1350
+  },
+  "GPT54_Mini/llm_vs_internal": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1500,
+    "llm_parse_ok": 1500
+  },
+  "GPT54_Mini/llm_vs_internal_cot_medium": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1500,
+    "llm_parse_ok": 1500
+  },
+  "GPT54_Mini/llm_vs_outer": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1488,
+    "llm_parse_ok": 1488
+  },
+  "GPT54_Mini/llm_vs_outer_cot_medium": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1500,
+    "llm_parse_ok": 1500
+  },
+  "GPT54_Mini/llm_vs_piers": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1500,
+    "llm_parse_ok": 1500
+  },
+  "GPT54_Mini/llm_vs_piers_cot_medium": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1489,
+    "llm_parse_ok": 1489
+  },
+  "GPT54_Mini/llm_vs_simple": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1484,
+    "llm_parse_ok": 1484
+  },
+  "GPT54_Mini/llm_vs_simple_cot_medium": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1468,
+    "llm_parse_ok": 1468
+  },
+  "GPT54_Mini/llm_vs_van_den_bergh": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1454,
+    "llm_parse_ok": 1454
+  },
+  "GPT54_Mini/llm_vs_van_den_bergh_cot_medium": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1463,
+    "llm_parse_ok": 1463
+  },
+  "Qwen36_A3B/llm_vs_flawed": {
+    "PLAY": 0,
+    "DISCARD": 36,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1015,
+    "llm_parse_ok": 979
+  },
+  "Qwen36_A3B/llm_vs_full": {
+    "PLAY": 0,
+    "DISCARD": 40,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1023,
+    "llm_parse_ok": 983
+  },
+  "Qwen36_A3B/llm_vs_full_cot": {
+    "PLAY": 0,
+    "DISCARD": 4,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1160,
+    "llm_parse_ok": 1156
+  },
+  "Qwen36_A3B/llm_vs_iggi": {
+    "PLAY": 0,
+    "DISCARD": 58,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1498,
+    "llm_parse_ok": 1440
+  },
+  "Qwen36_A3B/llm_vs_iggi_cot": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 240,
+    "llm_parse_ok": 240
+  },
+  "Qwen36_A3B/llm_vs_intentional": {
+    "PLAY": 0,
+    "DISCARD": 89,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1500,
+    "llm_parse_ok": 1411
+  },
+  "Qwen36_A3B/llm_vs_intentional_cot": {
+    "PLAY": 0,
+    "DISCARD": 0,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 240,
+    "llm_parse_ok": 240
+  },
+  "Qwen36_A3B/llm_vs_internal": {
+    "PLAY": 0,
+    "DISCARD": 65,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1500,
+    "llm_parse_ok": 1435
+  },
+  "Qwen36_A3B/llm_vs_outer": {
+    "PLAY": 0,
+    "DISCARD": 62,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1487,
+    "llm_parse_ok": 1425
+  },
+  "Qwen36_A3B/llm_vs_piers": {
+    "PLAY": 0,
+    "DISCARD": 57,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1496,
+    "llm_parse_ok": 1439
+  },
+  "Qwen36_A3B/llm_vs_simple": {
+    "PLAY": 0,
+    "DISCARD": 39,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1479,
+    "llm_parse_ok": 1440
+  },
+  "Qwen36_A3B/llm_vs_van_den_bergh": {
+    "PLAY": 0,
+    "DISCARD": 97,
+    "HINT_COLOR": 0,
+    "HINT_RANK": 0,
+    "llm_actions": 1464,
+    "llm_parse_ok": 1367
+  }
+}
