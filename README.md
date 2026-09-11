@@ -100,11 +100,22 @@ codebase and its released checkpoints (see `obl/NOTICE` and the scripts in
 
 ```bibtex
 @misc{fukushima2026conventiongap,
-  title   = {The Convention Gap: Towards Measuring Implicit Communication
-             in Cooperative AI Evaluation},
-  author  = {Fukushima, Makoto and Xiong, Hua-Dong and Moradi Pari, Ehsan},
-  year    = {2026},
-  doi     = {10.5281/zenodo.21975884},
-  url     = {https://github.com/dockmfgit/hanabi-convention-gap}
+  title         = {The Convention Gap: Towards Measuring Implicit Communication
+                   in Cooperative AI Evaluation},
+  author        = {Fukushima, Makoto and Xiong, Hua-Dong and Moradi Pari, Ehsan},
+  year          = {2026},
+  eprint        = {2609.11489},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.AI},
+  url           = {https://arxiv.org/abs/2609.11489}
+}
+
+@software{fukushima2026conventiongap_code,
+  title     = {hanabi-convention-gap: code and data for ``The Convention Gap''},
+  author    = {Fukushima, Makoto and Xiong, Hua-Dong and Moradi Pari, Ehsan},
+  year      = {2026},
+  version   = {1.0},
+  doi       = {10.5281/zenodo.21975884},
+  url       = {https://github.com/dockmfgit/hanabi-convention-gap}
 }
 ```
